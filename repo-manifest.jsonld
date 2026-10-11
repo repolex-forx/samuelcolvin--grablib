@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/grablib/commit/bec5d4fb1bff852b9f60f25b9960b385670c7110",
       "git:hexsha": "bec5d4fb1bff852b9f60f25b9960b385670c7110",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/samuelcolvin/grablib/commit/b96723e3b93a1ce5c8840cc582a03d94b88dfb8a",
